@@ -1,0 +1,8 @@
+prefix=/home/janhavi/auv_cam_aruco/install
+
+Name: aruco_pose_pkg
+Description: Description of aruco_pose_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
