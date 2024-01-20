@@ -1,0 +1,2 @@
+aruco_pose_pkg
+-DCATKIN_DEVEL_PREFIX=/home/janhavi/auv_cam_aruco/devel -DCMAKE_INSTALL_PREFIX=/home/janhavi/auv_cam_aruco/install -G Unix Makefiles
